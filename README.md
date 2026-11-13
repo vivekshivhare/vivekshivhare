@@ -23,7 +23,7 @@ I believe great engineering goes beyond writing code — it's about solving mean
 
 **Backend & Architecture:** REST APIs | Microservices | Distributed Systems | System Design
 
-**Cloud & DevOps:** AWS | Docker | Kubernetes | Git | CI/CD
+**Cloud & DevOps:** AWS | GCP | Docker | Kubernetes | Git | CI/CD
 
 **AI & Data:** Machine Learning | Generative AI | LLMs | Data Engineering
 
